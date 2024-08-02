@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 > [![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/fairytaler/) &nbsp; [![Twitter](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/bakikirmizi) &nbsp; [![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/baki.krmz)
 
 ### _Yetenekler / Skills:_
-> [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,rust,py&theme=dark)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,cmake,qt,opencv&theme=dark&perline=4)](https://skillicons.dev)
 
 
